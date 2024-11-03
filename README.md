@@ -1,2 +1,2 @@
-# discordbot-test
+# discordbot-channel
 実行したチャンネルで指定した文字列をそのチャンネルのチャンネル名として変更する。
