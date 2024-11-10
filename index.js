@@ -1,4 +1,4 @@
-const { Client, GatewayIntentBits, SlashCommandBuilder, REST, Routes } = require('discord.js');
+あconst { Client, GatewayIntentBits, SlashCommandBuilder, REST, Routes } = require('discord.js');
 const { token, clientId, guildId } = require('./config.json');
 
 // Discordクライアントの作成
